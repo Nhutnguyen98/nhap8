@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.item {
+  margin-top: 10px;
+}
+
+img {
+  width: 300px;
+  height: auto;
+}
